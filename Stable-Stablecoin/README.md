@@ -14,15 +14,21 @@ Stable é uma stablecoin 100% colateralizada em multiplas stablecoins. Ao invés
 
 ## Instalação
 
+````bash
+
 git clone https://github.com/iamcaioz/stable-stablecoin
 cd Stable-Stablecoin
 forge install
 forge build
 
+````
+
 ### Coverage
  
 ```bash
+
 forge coverage
+
 ```
 
 ## Créditos
